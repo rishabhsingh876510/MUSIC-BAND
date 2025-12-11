@@ -1,0 +1,96 @@
+🎸 RockStar Band – Official Portfolio Website
+
+Welcome to the RockStar Band project — a complete multi-page band portfolio website created using HTML, CSS, and JavaScript.
+Is website mein band ke baare mein poori details, tour dates, gallery, merch store aur fan sign-up form shamil hai.
+
+🚀 Features
+✅ Home Page
+
+Band introduction
+
+Music player
+
+About section
+
+Highlights cards
+
+🎤 Gallery Page
+
+Photo gallery (band pics & live performance images)
+
+Band members section
+
+🛍️ Merch Store
+
+Band T-shirt
+
+Wrist band
+
+Poster
+
+“Buy Now” UI buttons (demo only)
+
+📅 Tour Dates
+
+Upcoming show table with date, venue & status
+
+📝 Fan Sign-Up Form
+
+JavaScript validation (name, email, password, city)
+
+Ensures password length & correct email format
+
+No data is actually stored — demo project
+
+📂 Project Structure
+RockStar-Band/
+│── index.html
+│── gallery.html
+│── store.html
+│── tour.html
+│── signup.html
+│── style.css
+│── script.js
+│── /photo (images folder)
+│── /audio (music files)
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript (DOM Validation)
+
+🎧 Screenshots (Add Your Own)
+
+You can add screenshots here by uploading images to GitHub:
+
+![Home Page](images/home.png)
+![Gallery](images/gallery.png)
+
+📌 How to Use
+
+Download or clone this repository
+
+git clone https://github.com/your-username/your-repo-name.git
+
+
+Open index.html in any browser
+
+Explore all pages (Gallery, Store, Tour Dates, Fan Sign-Up)
+
+📣 Note
+
+This website is a student project.
+No real payments or data storage is implemented.
+
+👨‍🎤 Band Members (Example)
+
+Rishabh Singh – Singer
+
+Ayush Pal – Harmonium Artist
+
+Harshit Jaiswal – Piano Artist
+
+Shivanshu Pal – Dancer
